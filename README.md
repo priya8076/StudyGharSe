@@ -1,2 +1,2 @@
 Backend Link
-https://github.com/AniOpd/Study_App_Backend
+https://github.com/priya8076/StudyGharSe-Backends
